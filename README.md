@@ -20,5 +20,3 @@ Install dependencies: `pip install -r requirements.txt`
 - Imbalanced data handling
 - Real-time processing simulation
 - MLOps integration
-
-More details to be added as we implement.
